@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1791214878640,2014,HTTP Request -1,200,OK,Thread Group 1-1,text,true,,4980,238,1,1,https://www.blazedemo.com/,672,0,57
+1791214878640,674,HTTP Request -1-0,302,Found,Thread Group 1-1,text,true,,223,119,1,1,http://www.blazedemo.com/,672,0,57
+1791214879320,1334,HTTP Request -1-1,200,OK,Thread Group 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,1333,0,910
+1791214880657,691,HTTP Request -2,200,OK,Thread Group 1-1,text,true,,4980,238,1,1,https://www.blazedemo.com/,322,0,0
+1791214880657,322,HTTP Request -2-0,302,Found,Thread Group 1-1,text,true,,223,119,1,1,http://www.blazedemo.com/,322,0,0
+1791214880980,368,HTTP Request -2-1,200,OK,Thread Group 1-1,text,true,,4757,119,1,1,https://www.blazedemo.com/,363,0,0
